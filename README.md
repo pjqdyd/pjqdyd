@@ -1,5 +1,12 @@
-![pjqdyd's github stats](https://github-readme-stats.vercel.app/api?username=pjqdyd&count_private=true&include_all_commits=true&show_icons=true&line_height=24&theme=tokyonight&hide=contribs)
+<!--
+  ![pjqdyd's github stats](https://github-readme-stats.vercel.app/api?username=pjqdyd&count_private=true&include_all_commits=true&show_icons=true&line_height=24&theme=tokyonight&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjqdyd&theme=tokyonight&card_width=300&layout=compact)
+-->
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pjqdyd&count_private=true&include_all_commits=true&show_icons=true&line_height=27&theme=tokyonight&hide=contribs" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjqdyd&theme=tokyonight&card_width=400&layout=compact" width="400"/> 
+</p>
 
 <!--
 **pjqdyd/pjqdyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
